@@ -17,6 +17,7 @@ function initialize(lat, lon) {
 	});
 }
 
+
 /*function sendData(lat, lon){
 	$.ajax({
 		type: "POST",
